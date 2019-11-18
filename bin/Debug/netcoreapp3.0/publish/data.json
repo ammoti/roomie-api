@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "name": "Vahap Yigit",
+    "email":"v@y.com",
+    "password":"a",
+    "dateOfBirth": "1980-01-02T00:00:00.000Z",
+    "registered": true
+  },{
+    "id": 2,
+    "name": "Merve Fidan",
+    "email":"m@f.com",
+    "password":"b",
+    "dateOfBirth": "1980-01-02T00:00:00.000Z",
+    "registered": true
+  }
+]

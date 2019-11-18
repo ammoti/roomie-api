@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Vahap",
+    "surname": "Yigit",
+    "email": "v@y.com",
+    "password": "a",
+    "dateOfBirth": "1980-01-02T00:00:00+00:00",
+    "isComplete": true,
+    "city": "Istanbul"
+  },
+  {
+    "id": 2,
+    "name": "Merve",
+    "surname": "Fidan",
+    "email": "m@f.com",
+    "password": "b",
+    "dateOfBirth": "1980-01-02T00:00:00+00:00",
+    "isComplete": false,
+    "city": "Istanbul"
+  },
+  {
+    "id": 0,
+    "name": "string",
+    "surname": "string",
+    "email": "string",
+    "password": "string",
+    "dateOfBirth": "2019-11-18T01:31:04.329+00:00",
+    "isComplete": true,
+    "city": "string"
+  }
+]
